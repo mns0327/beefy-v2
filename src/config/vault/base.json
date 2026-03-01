@@ -17999,7 +17999,7 @@
     "status": "active",
     "createdAt": 1733420000,
     "platformId": "beefy",
-    "feeTier": "0.05",
+    "feeTier": "0.3",
     "assets": ["cbBTC", "USDC"],
     "risks": {
       "updatedAt": 1765557014,

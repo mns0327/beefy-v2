@@ -26029,7 +26029,7 @@
     "status": "active",
     "createdAt": 1772160095,
     "platformId": "beefy",
-    "feeTier": "0.05",
+    "feeTier": "0.3",
     "assets": ["WETH", "USDC"],
     "risks": {
       "updatedAt": 1772160095,
